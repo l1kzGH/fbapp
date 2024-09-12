@@ -1,0 +1,9 @@
+/build
+/google-services.json
+/libs
+src/androidTest
+src/test
+
+# Private data
+WeatherData.java
+AccessToken.java

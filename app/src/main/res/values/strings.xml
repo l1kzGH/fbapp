@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FirebaseApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">FirebaseSA</string>
+    <string name="nav_header_subtitle">l1kzGH</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Logout</string>
+
+    <string name="menu_profile">Profile</string>
+    <string name="menu_weather">Weather</string>
+    <string name="menu_music_player">Music player</string>
+</resources>
